@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Poppins", "sans-serif";
+}
+
+/* Common */
+a {
+  te
+}
+.content {
+  width: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header */
+.header {
+  background-color: #e6f0ff;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar .action {
+  margin-left: auto;
+}
+
+.navbar ul a {
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: #4f5361;
+
+}
