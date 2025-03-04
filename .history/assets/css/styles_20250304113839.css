@@ -59,7 +59,7 @@ a {
   z-index: 1;
 }
 
-.hero-wrap {
+.header {
   background-color: #e6f0ff;
   height: 100vh;
   display: flex;

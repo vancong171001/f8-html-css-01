@@ -55,15 +55,12 @@ a {
   background-color: #e6f0ff;
   padding-top: 26px;
   position: sticky;
-  top: -26px;
-  z-index: 1;
+  top: ;
 }
 
-.hero-wrap {
+.header {
   background-color: #e6f0ff;
   height: 100vh;
-  display: flex;
-  flex-direction: column;
   position: relative;
 }
 
@@ -72,6 +69,7 @@ a {
   align-items: center;
   /* padding-top: 38px; */
   padding: 12px 0;
+  background: orange;
 }
 
 .navbar ul {
@@ -186,6 +184,7 @@ a {
 }
 
 .clients .images a:hover {
+  
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
 }
 
