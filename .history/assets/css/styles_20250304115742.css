@@ -69,7 +69,6 @@ a {
   height: calc(100vh - 90px);
   display: flex;
   flex-direction: column;
-  justify-content: center;
   position: relative;
 }
 
@@ -112,11 +111,11 @@ a {
   border-radius: 8px;
 }
 
-.hero-wrap .info {
+ .info {
   width: 51%;
 }
 
-.hero-wrap .sub-title {
+ .sub-title {
   color: #687690;
   font-size: 1.8rem;
   font-weight: 500;
@@ -124,14 +123,14 @@ a {
   letter-spacing: 0.01em;
 }
 
-.hero-wrap .title {
+ .title {
   color: #000336;
   font-size: 6.4rem;
   font-weight: 700;
   line-height: 1.1875; /* 118.75% */
 }
 
-.hero-wrap .desc {
+ .desc {
   color: #5a6473;
   font-size: 1.8rem;
   font-weight: 400;

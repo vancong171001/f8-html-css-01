@@ -69,7 +69,6 @@ a {
   height: calc(100vh - 90px);
   display: flex;
   flex-direction: column;
-  justify-content: center;
   position: relative;
 }
 
