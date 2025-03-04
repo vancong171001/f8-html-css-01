@@ -615,11 +615,7 @@ a {
   justify-content: center;
   align-items: center;
   border-radius: 3px;
-  background: #f9f9f9;
-}
-
-.footer .social-link + .social-link {
-  margin-left: 16px;
+  background: #f;
 }
 
 .footer .social-link:hover {
